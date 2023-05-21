@@ -2,7 +2,7 @@
 </br>
 Hi, I'm Jonathan! 
 <br/><br/>
-I'm a full-stack web developer, passionate about creating, finding solutions and learning about new technologies.
+I'm a software developer, passionate about creating maintainable software, finding solutions and learning about new technologies.
 <br/><br/>
 
 ## 🌍More about me:
