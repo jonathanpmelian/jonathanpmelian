@@ -1,7 +1,7 @@
 # Hello 👋🏽👨🏽‍💻
 </br>
 Hi, I'm Jonathan!
-</br>
+</br></br>
 I am a software engineer specializing in creating software solutions with a strong focus on maintainability and scalability. Passionate about solving complex problems, I dedicate my career to exploring and applying best practices and design patterns to create robust and efficient systems.
 
 My journey in the tech world has led me to delve into technologies like React, TypeScript, and Node.js, to improve the end-user experience and optimize software development processes. I constantly seek to learn and adopt new technologies that push the boundaries of what is possible.
