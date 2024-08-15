@@ -1,4 +1,4 @@
-<b>Hi, I'm Jonathan!</b> 👋🏽👨🏽‍💻
+<b>Hi, I'm Jonathan</b> 👋🏽👨🏽‍💻
 <p>Frontend Lead at Advance Digital Experts SL</p>
 
 <p>I am a software engineer passionate about solving complex problems. I dedicate my career to exploring and applying best practices to create robust and efficient systems.</p>
